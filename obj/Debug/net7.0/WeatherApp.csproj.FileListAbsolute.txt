@@ -1,0 +1,15 @@
+/Users/szonja/Projects/WeatherApp/bin/Debug/net7.0/WeatherApp
+/Users/szonja/Projects/WeatherApp/bin/Debug/net7.0/WeatherApp.deps.json
+/Users/szonja/Projects/WeatherApp/bin/Debug/net7.0/WeatherApp.runtimeconfig.json
+/Users/szonja/Projects/WeatherApp/bin/Debug/net7.0/WeatherApp.dll
+/Users/szonja/Projects/WeatherApp/bin/Debug/net7.0/WeatherApp.pdb
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.AssemblyReference.cache
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.AssemblyInfo.cs
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.dll
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/refint/WeatherApp.dll
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.pdb
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/WeatherApp.genruntimeconfig.cache
+/Users/szonja/Projects/WeatherApp/obj/Debug/net7.0/ref/WeatherApp.dll
